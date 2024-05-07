@@ -1,2 +1,1 @@
-# lstm 2
-in this project
+# FaceAging using CycleGANs
